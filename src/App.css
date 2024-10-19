@@ -1,0 +1,22 @@
+
+.block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  border: 2px solid;
+  height: 100px;
+  width: 100px;
+  cursor: pointer;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+  
+}
+.board {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;
+}
